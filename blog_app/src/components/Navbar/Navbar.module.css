@@ -1,0 +1,25 @@
+.parent {
+  background-color: #3d73d5;
+}
+.innerparent {
+  width: 95%;
+  margin: auto;
+  padding: 15px;
+  height: 30px;
+  /* background-color: #1B74E4; */
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-weight: 600;
+  color: #fff;
+}
+.input {
+  width: 35%;
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+}
